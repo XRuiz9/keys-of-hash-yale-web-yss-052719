@@ -1,6 +1,6 @@
 class Hash
   def keys_of(*arguments)
     keys = []
-    self
+    self.keys
   end
 end
